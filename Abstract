@@ -1,0 +1,20 @@
+Abstracts
+Car dealership inventory website simulation to provide client searching specific cars & trucks. The purpose of this simulation is to provide the client with a car search engine so that they could find cars that meet their criteria. The client will input types or specific car attributes that they desire and the server will search through the dealership's inventory. The inventory will be constructed as a linked list and each node will be a class that has the cars specific information that consists of the year, model, price, etc.
+
+Simulated search engine will return of list requires:
+Client could view car summary
+The car summary will consist of the cars attributes that will be stored in a class. 
+Car availability 
+Within the class, there will be an availability variable that will be based on if someone has placed a hold on the car or not.
+Server calculate monthly payment 
+The monthly payment will take the down payment of the car, and the number of months the client wants to pay for. These parameters will be used to calculate the monthly payment
+Client could look up different dealership 
+In this simulation we will include 2 locations will different inventory
+Client have favorites car list
+This will be a list that the client will create by using the favorite option. So that way the client will be able to look over the cars that they want to look over at another time.
+Suggestion list (return random car)
+Furthermore, The server would provide the client the information needed such as the car model and such and the client would input their decisions as well as how much they would be paying for the car. There will be two choices for payment which is full amount with cash/check or monthly payment. The payment in general would be the price after the government fees, taxes, any finance charges and down payment have been included.
+
+Tasks: (who is going to do what in the project) 
+Server part → Carlos, Genesis
+Client part → Vanessa 
