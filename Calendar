@@ -1,0 +1,29 @@
+*Schedule is subject to changes as we progress further into the project*
+** 13 - week span **
+** Each section are separated by 2 week intervals **
+*** Each Section needs to be done by the next start date ***
+
+Begin designing and coding the client and server side: (Start: Feb 10)
+We are going to design the program initially as command line interface to test out our various functions
+Create the objects so that it can hold the Cars attributes such as Brand, Year, Model, Price, etc.
+Create a rough design on the user interface
+
+Begin working on the Server side functions (Feb 24)
+These functions will consist of searching, sorting, and calculations
+Start Early phases of client-server communications and data transfer
+Test saving information onto a txt file and reading from a txt file to save information for the client.
+
+Progress further into the Client Side User Interface (Mar 9)
+We will create the car summary which will display all of the information the user would need
+Start filling up each “Store Location” with their inventory choices to the server side
+Test out registering for an “account” which will store the clients information onto a txt file for simplicity purposes.
+
+Start testing out features for the client side program. (Mar 23)
+Features that will need to be implemented is Specifying location
+Server returning A list of cars that meets the clients criteria.
+Provide the client with the option to sort the list
+
+Finalize Client User Interface & reach final stages of Server side (April 6) 
+Ensure sure that functions are properly working
+Ensure that the client is properly viewing all the information
+Ensure that Client can sign in and have their information saved
